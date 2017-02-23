@@ -1,0 +1,5 @@
+c:\users\575435\documents\visual studio 2010\Projects\corepluralsight\corepluralsight.Web\bin\corepluralsight.Web.dll
+c:\users\575435\documents\visual studio 2010\Projects\corepluralsight\corepluralsight.Web\bin\corepluralsight.Web.pdb
+c:\users\575435\documents\visual studio 2010\Projects\corepluralsight\corepluralsight.Web\obj\Debug\corepluralsight.Web.dll
+c:\users\575435\documents\visual studio 2010\Projects\corepluralsight\corepluralsight.Web\obj\Debug\corepluralsight.Web.pdb
+C:\Users\575435\documents\visual studio 2010\Projects\corepluralsight\corepluralsight.Web\obj\Debug\corepluralsight.Web.csprojResolveAssemblyReference.cache
